@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vishal-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-20T18:35:51.859987281Z"
+    description: A Helm chart for Kubernetes
+    digest: 2dc2ec38c69620a000b4995da43c019fcc0715e2c94f48c2223d191bb2ab4a79
+    name: vishal-chart
+    type: application
+    urls:
+    - vishal-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-20T18:35:51.859544249Z"
